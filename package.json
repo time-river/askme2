@@ -25,11 +25,27 @@
     "@electron-forge/maker-zip": "^7.2.0",
     "@electron-forge/plugin-auto-unpack-natives": "^7.2.0",
     "@electron-forge/plugin-vite": "^7.2.0",
-    "@vitejs/plugin-vue": "^5.0.2",
-    "electron": "28.1.1"
+    "@electron-internal/eslint-config": "^1.0.1",
+    "@iconify-json/ep": "^1.1.14",
+    "@iconify-json/fa": "^1.1.8",
+    "@iconify-json/wi": "^1.1.8",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "autoprefixer": "^10.4.16",
+    "electron": "28.1.1",
+    "eslint": "^8.56.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-vue": "^9.20.0",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "unplugin-auto-import": "^0.17.3",
+    "unplugin-icons": "^0.18.2",
+    "unplugin-vue-components": "^0.26.0"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "electron-log": "^5.0.3",
     "electron-squirrel-startup": "^1.0.0",
-    "vue": "^3.4.5"
+    "vue": "^3.4.5",
+    "vue-router": "4"
   }
 }
